@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1510611167 source:d:\bessaa omar\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LesTab.h"
+	"LesMatrc.h"
+	"LesList.h"
+
+1510551415 d:\bessaa omar\tp\lestab.h
+	"LesTab.c"
+
+1510551415 d:\bessaa omar\tp\lestab.c
+	<stdio.h>
+	<stdlib.h>
+	"LesTab.h"
+
+1510611053 d:\bessaa omar\tp\lesmatrc.h
+	"LesMatrc.c"
+
+1510611253 d:\bessaa omar\tp\lesmatrc.c
+	<stdio.h>
+	<stdlib.h>
+	"LesMatrc.h"
+
+1510605604 d:\bessaa omar\tp\leslist.h
+	"LesList.c"
+
+1510609171 d:\bessaa omar\tp\leslist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LesList.h"
+
+1510309290 source:d:\bessaa omar\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510309290 d:\bessaa omar\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1510610196 source:d:\bessaa omar\tp\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"conio2.h"
+
